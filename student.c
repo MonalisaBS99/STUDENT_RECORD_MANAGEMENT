@@ -1,4 +1,4 @@
-//student management system
+//student management system in C
 #include <stdio.h>
 #include <string.h>
 
